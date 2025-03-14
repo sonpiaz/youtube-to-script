@@ -1,0 +1,26 @@
+{
+  "name": "youtube-transcript-generator",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "axios": "^1.8.3",
+    "next": "^12.3.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "youtube-transcript": "^1.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.19.80",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "eslint": "^8.37.0",
+    "eslint-config-next": "^12.3.4",
+    "typescript": "^5.8.2"
+  }
+}
